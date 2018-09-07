@@ -1,0 +1,11 @@
+Years that can be divided evenly by 4 are leap years.
+Exception: Century years are NOT leap years UNLESS they can be evenly divided by 400.
+
+
+Tests
+
+1600 = leap year
+1700 = not leap year
+1984 = leap year
+2091 = not leap year
+
