@@ -1,6 +1,6 @@
 Years that can be divided evenly by 4 are leap years.
 Exception: Century years are NOT leap years UNLESS they can be evenly divided by 400.
-
+Century years ARE leap years if they can be evenly divided by 400
 
 Tests
 
